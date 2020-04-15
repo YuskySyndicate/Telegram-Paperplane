@@ -55,5 +55,6 @@ forks of Paperplane, we will only assist with issues affecting our central repos
 * [@kandnub](https://github.com/kandnub)
 * [@pqhaz](https://github.com/pqhaz)
 * [@yshalsager](https://github.com/yshalsager)
+* [@yusrilsyahruddin](https://github.com/yusrilsyahruddin)
 
 and many more people who aren't mentioned here.
